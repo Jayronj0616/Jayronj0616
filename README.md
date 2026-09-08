@@ -1,6 +1,6 @@
 # Hi, I'm Jayron 👋
 
-**Associate Software Engineer @ Accenture (Data & AI)** · Full-stack Developer · Philippines
+**Associate Software Engineer @ Accenture (Data & AI)** · Freelance Software Developer (Nov 2025–present) · Philippines
 
 Full-stack developer building production systems end-to-end — from schema design to deployment. Works across Node.js, Next.js, React, PHP, and Supabase, with day-job experience in data/AI engineering and independent projects shipped outside of work.
 
@@ -22,6 +22,7 @@ Full-stack developer building production systems end-to-end — from schema desi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
