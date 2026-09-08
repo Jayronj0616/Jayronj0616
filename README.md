@@ -30,8 +30,8 @@ Full-stack developer building production systems end-to-end — from schema desi
 
 | Project | Description | Link |
 |---|---|---|
-| **Payroll Management System** | Laravel-based payroll system with voice-assisted entry, automatic overtime computation, and grouped payroll history. | [View live](https://payroll-system-beryl.vercel.app/dashboard) |
-| **Lending Management System** | Multi-admin loan tracking system for clients, balances, payments, and investors, with data isolated per admin. Built with Express + Supabase Postgres and React 19. | [View live](https://lending-system-three.vercel.app/) |
+| **Payroll Management System** | Laravel-based payroll system with voice-assisted entry, automatic overtime computation, and grouped payroll history. | [![View Live](https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://payroll-system-beryl.vercel.app/dashboard) |
+| **Lending Management System** | Multi-admin loan tracking system for clients, balances, payments, and investors, with data isolated per admin. Built with Express + Supabase Postgres and React 19. | [![View Live](https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lending-system-three.vercel.app/) |
 
 ---
 
@@ -40,12 +40,3 @@ Full-stack developer building production systems end-to-end — from schema desi
 - **Microsoft Certified: Azure AI Fundamentals** — Microsoft, Aug 2026 — [Credential](https://learn.microsoft.com/en-us/users/javierjayronr-9034/credentials/bc4b39739fa0d49)
 - **Reinvention with Agentic AI** — Accenture, Jul 2026 — [Credential](https://www.credly.com/badges/e00611bd-ffe0-491b-9358-8599fc7c0d72/linked_in_profile)
 - **BS Information Technology** — Bulacan State University
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayronj0616&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayronj0616&hide_border=true" />
-</p>
